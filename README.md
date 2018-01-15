@@ -40,5 +40,7 @@ revert: 回滚到上一个版本
 
 ## 参考资料
 [Git commit message和工作流规范](https://ivweb.io/topic/58ba702bdb35a9135d42f83d)
+
 [git-commit-style-guide](https://github.com/iv-web/git-commit-style-guide)
+
 [angular](https://github.com/angular/angular/commits/master)
